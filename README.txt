@@ -1,0 +1,1 @@
+This is an associative neural network implemented using a matrix.
